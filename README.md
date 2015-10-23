@@ -33,3 +33,6 @@ $writeConfig->toFile('path/to/config.php', [
     'nested.config.item' => 'value'
 ]);
 ```
+Original Repo
+
+https://github.com/daftspunk/laravel-config-writer

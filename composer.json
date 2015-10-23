@@ -1,13 +1,13 @@
 {
-    "name": "october/config",
+    "name": "alverated/config",
     "description": "Configuration extension",
     "homepage": "http://octobercms.com",
     "keywords": ["october cms", "october", "laravel", "config", "write"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexey Bobkov",
-            "email": "aleksey.bobkov@gmail.com"
+            "name": "Alverated",
+            "email": "alver.noquiao@alverated.com"
         },
         {
             "name": "Samuel Georges",
