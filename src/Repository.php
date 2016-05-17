@@ -6,7 +6,7 @@ use Illuminate\Config\Repository as RepositoryBase;
 class Repository extends RepositoryBase
 {
     /**
-     * The config rewriter object.
+     * The config rewriter object..
      *
      * @var string
      */
